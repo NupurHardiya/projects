@@ -39,7 +39,7 @@ The main function of the program first asks the user to choose a matrix operatio
 
 The program also has a loop that allows the user to repeat the operations as many times as they want. The loop terminates when the user enters N or n.
 
-**_________________________________________________________________________________________________________________________________________________________**
+**____________________________________________________________________________________________________________________________________________________**
 
                                                         **CAR RACING GAME**
 
@@ -54,4 +54,4 @@ Open car.html file in any code editor to edit the code.
 Open car.html file in any browser to run the game.
 Play the game to get a feel of what’s going on.
 
-**____________________________________________________________________________________________________________________________________________________________**
+**___________________________________________________________________________________________________________________________________________________**
