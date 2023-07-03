@@ -26,3 +26,17 @@ Tic-tac-toe is a two-player game where players take turns placing their symbols,
 5. **Draw**: If the game board is filled up with symbols and neither player has three in a row, the game is a draw.
 **__________________________________________________________________________________________________________________________________________________**
 
+                                                      **MATRIX CALCILATOR**
+
+   The code you provided is a C program that performs matrix operations. It has four functions:
+
+1. **readMatrix()** reads the elements of a matrix from the user.
+2. **printMatrix()** prints the elements of a matrix.
+3. **matrixAddSub()** adds or subtracts two matrices.
+4. **matrixScalarMultiply()** multiplies a matrix by a scalar.
+
+The main function of the program first asks the user to choose a matrix operation. It then calls the appropriate function to perform the operation. The results of the operation are printed to the console.
+
+The program also has a loop that allows the user to repeat the operations as many times as they want. The loop terminates when the user enters N or n.
+
+**_________________________________________________________________________________________________________________________________________________________**
