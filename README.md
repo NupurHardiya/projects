@@ -13,7 +13,7 @@ The program then enters a loop where it waits for the user to give a voice comma
 The program also includes a few error handling statements to handle situations where the user's voice command is not recognized or the program is unable to perform the requested task.
 
 Overall, the code above is a simple but effective Python program that can be used to control a computer using voice commands. The program can be customized to perform a variety of tasks, and it can be easily extended to add new features.
-**_____________________________________________________________________________________________________________________________________________**
+**_________________________________________________________________________________________________________________________________________________**
 
                                                       **TIC-TAC-TOE GAME**
                                                       
@@ -24,5 +24,5 @@ Tic-tac-toe is a two-player game where players take turns placing their symbols,
 3. **Symbols**: The two players use different symbols to represent their turns. In this case, the players use the symbols X and O.
 4. **Winning conditions**: The game is won by the first player to get three of their symbols in a row, either horizontally, vertically, or diagonally.
 5. **Draw**: If the game board is filled up with symbols and neither player has three in a row, the game is a draw.
-**_______________________________________________________________________________________________________________________________________________**
+**__________________________________________________________________________________________________________________________________________________**
 
