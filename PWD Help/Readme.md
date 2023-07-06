@@ -12,7 +12,7 @@ The code includes HTML markup, CSS styles, and JavaScript functions for showing 
 4. How to Use
 5. Contributing
 6. License
-7. 
+   
 **Introduction**
 The PWD Help Website is designed to provide valuable resources and information for individuals with disabilities in India.
 It consists of different sections such as Opportunities and Schemes, Facilities, Schools, and Contact Us.
