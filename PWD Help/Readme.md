@@ -26,7 +26,9 @@ The code snippet consists of the following files:
 **pwd.html:** The main HTML file that contains the structure of the website.
 
 **style.css:** The CSS file that defines the styles and layout of the website.
+
 **script.js:** The JavaScript file that includes functions for showing/hiding additional content.
+
 
 **Features:-**
 
