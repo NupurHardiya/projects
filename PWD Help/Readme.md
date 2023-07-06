@@ -4,7 +4,7 @@ This is a README file for the code snippet provided, which represents the struct
 The website provides information about opportunities, schemes, facilities, schools, and contact details for people with disabilities in India.
 The code includes HTML markup, CSS styles, and JavaScript functions for showing more content dynamically.
 
-**Table of Contents**
+**Table of Contents:-**
 
 1. Introduction
 2. File Structure
@@ -13,20 +13,22 @@ The code includes HTML markup, CSS styles, and JavaScript functions for showing 
 5. Contributing
 6. License
    
-**Introduction**
+**Introduction:-**
+
 The PWD Help Website is designed to provide valuable resources and information for individuals with disabilities in India.
 It consists of different sections such as Opportunities and Schemes, Facilities, Schools, and Contact Us.
 The website aims to assist people in accessing relevant programs, services, and educational institutions catered to their needs.
 
-**File Structure**
+**File Structure:-**
 
 The code snippet consists of the following files:
 
 **pwd.html:** The main HTML file that contains the structure of the website.
+
 **style.css:** The CSS file that defines the styles and layout of the website.
 **script.js:** The JavaScript file that includes functions for showing/hiding additional content.
 
-**Features**
+**Features:-**
 
 The PWD Help Website offers the following features:
 
@@ -37,7 +39,7 @@ The PWD Help Website offers the following features:
 
 ![pwd ss](https://github.com/NupurHardiya/projects/assets/113535580/be2d5773-a8ce-4816-bb6b-8bfa1496ae85)
 
-**How to Use**
+**How to Use:-**
 
 To use or modify the code snippet for the PWD Help Website, follow these steps:
 
@@ -49,12 +51,12 @@ To use or modify the code snippet for the PWD Help Website, follow these steps:
    
 **Note:** Ensure that you have a good understanding of HTML, CSS, and JavaScript before making any changes to the code.
 
-**Contributing**
+**Contributing:-**
 
 Contributions to the PWD Help Website are welcome! If you have any suggestions, bug reports, or improvements, please submit them as issues
 or pull requests to the repository where the code is hosted.
 
-**License**
+**License:-**
 
 The code snippet for the PWD Help Website is provided under the [MIT License](https://opensource.org/license/mit/). 
 You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. 
